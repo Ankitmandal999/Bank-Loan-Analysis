@@ -5,7 +5,7 @@ This bank loan report provides a comprehensive overview of loan applications, fu
 
 ## DASHBOARD 1: SUMMARY
 
-<img src="Summary.jpg"  />
+<img src="Summary.png"  />
 
 ## KPIs:
 **1. Total Loan Applications:** We need to calculate the total number of loan applications received during a specified period. Additionally, it is essential to monitor the Month-to-Date (MTD) Loan Applications and track changes Month-over-Month (MoM).
@@ -33,7 +33,7 @@ In order to gain a comprehensive overview of our lending operations and monitor 
 
 ## DASHBOARD 2: OVERVIEW
 
-<img src="Overview.jpg"  />
+<img src="Overview.png"  />
 
 ## CHARTS
 
@@ -48,6 +48,8 @@ In order to gain a comprehensive overview of our lending operations and monitor 
 
 
 ## DASHBOARD 3: DETAILS
+
+<img src="Details.png"  />
 
 ## GRID
 Need for a comprehensive 'Details Dashboard' that provides a consolidated view of all the essential information within our loan data. This Details Dashboard aims to offer a holistic snapshot of key loan-related metrics and data points, enabling users to access critical information efficiently.
