@@ -76,7 +76,8 @@ The primary objective of the Details Dashboard is to provide a comprehensive and
 
 ## SQL : Bank Loan Data Extraction & Performance Metrics
 
-'''sql
+```sql
+
 --A.BANK LOAN REPORT | SUMMARY
 
 --KPI's
@@ -348,5 +349,5 @@ WHERE grade = 'A'
 GROUP BY purpose
 ORDER BY purpose
 
-'''
+```
 
